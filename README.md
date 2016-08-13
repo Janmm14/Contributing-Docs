@@ -1,5 +1,8 @@
 # Development directives
 
+## Contacts and discussions:
+- Skype: https://join.skype.com/cc27PEArdQwo
+
 ###Global:
 Tools:
 - Git/GitHub
